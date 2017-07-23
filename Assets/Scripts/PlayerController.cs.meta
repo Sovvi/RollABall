@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bda99303756043b47868418de3158fa8
+timeCreated: 1500752539
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - countText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - pickup: {fileID: 8300000, guid: d50af1840b9c7b8448451280d36deb7e, type: 3}
+  - youwin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
